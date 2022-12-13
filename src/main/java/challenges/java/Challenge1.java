@@ -1,6 +1,6 @@
 package challenges.java;
 
-public class challenge1 {
+public class Challenge1 {
 
 	public static void main(String[] args) {
 		String input1 = "Hello World";
