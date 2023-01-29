@@ -22,8 +22,6 @@ public class AlertHandling {
         Alert simpleAlert = driver.switchTo().alert();
         simpleAlert.accept();
 
-
-
         driver.quit();
     }
 }

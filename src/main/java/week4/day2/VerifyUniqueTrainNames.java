@@ -37,7 +37,6 @@ public class VerifyUniqueTrainNames {
         } else {
             System.out.println("The train name list contains one or more duplicates");
         }
-
         driver.quit();
     }
 }
